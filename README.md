@@ -4,11 +4,11 @@
  
  💬 I am curruently studying Bsc. Information Technology
  
- 🌱 My interest is in cybersecurity with keen interest in web application security and Open Source Intelligence.
+ 🌱 My interest is in web development, cloud computing and internet security
  
  👯 I am open to collaborating in Bug bounty or any other interesting stuff ⚡
  
- 🤔 I’m looking for help with a mentor in the #infosec community
+
  
   📫 How to reach me:
   
